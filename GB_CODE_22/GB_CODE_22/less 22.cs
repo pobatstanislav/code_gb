@@ -44,7 +44,7 @@ switch (monthNumber)
         Console.WriteLine("Ошибка, нужно ввести число от 1 до 12");
         break;
 }
-/**
+/*
 //string iString = "05";
 var monthNumber = Convert.ToInt32(Console.ReadLine());
 string strmonthNumber = monthNumber.ToString("00"); // 001
